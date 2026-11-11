@@ -44,10 +44,10 @@ I'm **Hamdan Khan**, a Software Developer based in Karachi, Pakistan, currently 
 <table border="0">
   <tr>
     <td width="50%">
-      <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=hamdankhan1208&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="100%" alt="GitHub Stats" />
+      <img src="https://github-stats-extended.vercel.app/api?username=hamdankhan1208&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="100%" alt="GitHub Stats" />
     </td>
     <td width="50%">
-      <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=hamdankhan1208&layout=compact&theme=tokyonight&hide_border=true" width="100%" alt="Top Languages" />
+      <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=hamdankhan1208&layout=compact&theme=tokyonight&hide_border=true" width="100%" alt="Top Languages" />
     </td>
   </tr>
 </table>
