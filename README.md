@@ -20,7 +20,6 @@
 
 I'm **Hamdan Khan**, a Software Developer based in Karachi, Pakistan, currently working at **Mobiz**. I specialize in building efficient backend systems, data-driven applications, and exploring low-level programming.
 
-* 📍 **Location:** Karachi, Pakistan
 * 🏢 **Current Company:** Mobiz
 * 🎯 **Core Focus:** Python ecosystem, C++ optimization, and cloud services (Azure)
 * 💬 **Ask me about:** Data modeling, backend API design, and system architecture
